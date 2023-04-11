@@ -12,6 +12,7 @@ while (true) {
     double num1 = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine();
 
+<<<<<<< HEAD
     Console.WriteLine("Escribe el nombre del operador quieres usar: ");
     Console.WriteLine();
     Console.WriteLine("SUMA");
@@ -30,6 +31,11 @@ while (true) {
 
     Console.WriteLine("Ingrese el segundo numero: ");
     double num2 = Convert.ToInt32(Console.ReadLine());
+=======
+Console.WriteLine("Ingrese dos números:");
+double num1 = Convert.ToInt32(Console.ReadLine());
+double num2 = Convert.ToInt32(Console.ReadLine());
+>>>>>>> 41abe2098913176a01924cb1eb095ca16fa81140
 //primer comentario
 
 //double opcion = Convert.ToInt32(Console.ReadLine());
